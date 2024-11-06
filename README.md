@@ -59,7 +59,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [TetraLogical Company Blog](https://tetralogical.com/blog/)
 - [Steve Faulkner](https://html5accessibility.com/stuff/)
 - [Hidde de Vries](https://hidde.blog/)
-- [Таня Фокина — Статьи про цифровую доступность — ](https://a11y-blog.dev/ru/)
+- [Таня Фокина — Статьи про цифровую доступность](https://a11y-blog.dev/ru/)
 
 ### Articles compilation
 
@@ -75,6 +75,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [Weblind](https://weblind.ru/) — рекомендации по разработке сайтов для людей с нарушениями зрения.
 - [Weblind on Github](https://github.com/web-standards-ru/weblind.ru/)
 - [Addressing Accessibility Concerns With Using Fluid Type](https://www.smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/) — Smashing Magazine article about CSS clamp() function
+- [A Complete Guide To Accessible Front-End Components — Vitaly Friedman](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 
 ## Podcasts
 
@@ -106,6 +107,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [«Людоедский интерфейс» — Вадим Макеев](https://youtu.be/KAK-WAb9vow?si=LFBoARSo2jmK-neK)
 - [«Жми сюда!» — Вадим Макеев](https://youtu.be/MWJKwn_gKR4?si=5hwOtQ1ZB_VhscPO), [презентация](https://wsd.events/2012/06/23/pres/push-it/)
 - [Pitera11y_meetup](https://youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB&si=PtpYZ3wx9CL1wbV8) — петербургский митап о веб-доступности. Мы обмениваемся опытом и делаем интернет удобнее для всех.
+- [Tbilisi A11y & UX Day](https://www.youtube.com/live/TRn2gNBKZgg?si=QbSIDq9pq5iCDl-C)
 
 ## Online courses
 
