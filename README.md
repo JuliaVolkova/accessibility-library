@@ -44,6 +44,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [A List Apart: Accessibility](https://alistapart.com/blog/topic/accessibility/) — журнал о веб-дизайне, который часто публикует статьи на тему доступности.
 - [Статьи про цифровую доступность — Таня Фокина](https://a11y-blog.dev/ru/)
 - [Под­бор­ка ссы­лок для зна­ком­ства с до­ступ­ной раз­ра­бот­кой](https://web-standards.ru/articles/a11y-links/)
+- [Дока — Accessibility](https://doka.guide/a11y/)
 - [Веб-стандарты — a11y](https://web-standards.ru/articles/tags/a11y/)
 - [Smashing Magazine — Accessibility](https://www.smashingmagazine.com/category/accessibility/)
 - [Weblind](https://weblind.ru/) — рекомендации по разработке сайтов для людей с нарушениями зрения
@@ -52,7 +53,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 - [«Inclusive Pineapple» (Инклюзивный ананас)](https://inclusivepineapple.github.io/) — это подкаст, в котором Глаша Жур и Таня Фокина обсуждают цифровую доступность.
 - [«Веб-стандарты»](https://web-standards.ru/podcast/) — новости фронтенда в еженедельном подкасте сообщества веб-разработчиков.
-- [«A11ycasts»](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) — это отличное интро в доступность с нуля.
+- [«A11ycasts with Rob Dodson»](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) — это отличное интро в доступность с нуля.
 - [«A11y Rules»](https://a11yrules.com/) — подкаст, посвященный вопросам доступности в веб-дизайне.
 - [«The Accessibility Podcast»](https://open.spotify.com/show/4SjgcZxSkOJdkiADJBvWbo) — обсуждает различные аспекты доступности и инклюзии.
 
@@ -78,8 +79,13 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 ## Online courses
 
+- [Accessibility Unity](https://accessibilityunity.com/) — школа цифровой доступности, где можно систематизировать знания о том, как делать сайты и приложения доступными для незрячих и других людей с инвалидностью.
 - [ESDC Self-Paced Web Accessibility Course](https://bati-itao.github.io/learning/esdc-self-paced-web-accessibility-course/index.html) — курс от канадского правительства, в нём сухо и конкретно рассказано как надо, по сути это набор best practices.
 - [Web Accessibility by Google course](https://www.udacity.com/course/web-accessibility--ud891)
 - [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=2113185)
 - [UX Foundation: Accessibility](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=2113185)
+
+## Tools
+
+
 
