@@ -106,6 +106,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [«Я 💛 Фронтенд. А ваш сайт доступен с клавиатуры?» - Глафира Жур](https://youtu.be/SBNXPTwGnG8?si=qoL0xHy1NLQx3tmK)
 - [«Людоедский интерфейс» — Вадим Макеев](https://youtu.be/KAK-WAb9vow?si=LFBoARSo2jmK-neK)
 - [«Жми сюда!» — Вадим Макеев](https://youtu.be/MWJKwn_gKR4?si=5hwOtQ1ZB_VhscPO), [презентация](https://wsd.events/2012/06/23/pres/push-it/)
+- [Семантика для циников, Вадим Макеев](https://youtu.be/W5DgVWtitjQ?si=Bgeq3hI9FbLAzwuz), [презентация](https://wsd.events/2018/10/27/pres/semantics/)
 - [Pitera11y_meetup](https://youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB&si=PtpYZ3wx9CL1wbV8) — петербургский митап о веб-доступности. Мы обмениваемся опытом и делаем интернет удобнее для всех.
 - [Tbilisi A11y & UX Day](https://www.youtube.com/live/TRn2gNBKZgg?si=QbSIDq9pq5iCDl-C)
 
