@@ -31,3 +31,26 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 [Section 508](https://www.section508.gov/) is a U.S. federal law that requires government agencies to make their electronic and information technology accessible to people with disabilities. It is part of the Rehabilitation Act and mandates that all federal websites and digital tools meet accessibility standards. Unlike WAI-ARIA, which provides technical specifications for developers to enhance specific web elements, and WCAG, which offers comprehensive guidelines for overall web content accessibility, Section 508 is a legal requirement that enforces compliance, aligning with key aspects of WCAG to ensure accessibility in practice.
 
+## Articles & Blogs
+
+- [Adrian Roselli Blog](https://adrianroselli.com/posts)
+- [Scott O'Hara Blog](https://www.scottohara.me/writing/)
+- [Sarah Higley](https://sarahmhigley.com/writing/)
+- [Léonie Watson](https://tink.uk/)
+- [TetraLogical Company Blog](https://tetralogical.com/blog/)
+- [Под­бор­ка ссы­лок для зна­ком­ства с до­ступ­ной раз­ра­бот­кой](https://web-standards.ru/articles/a11y-links/)
+
+## Podcasts & Talks
+
+### Inclusive Pineapple (Инклюзивный ананас)
+
+[Инклюзивный ананас](https://inclusivepineapple.github.io/) — это подкаст, в котором Глаша Жур и Таня Фокина обсуждают цифровую доступность.
+
+### Веб-стандарты
+
+[Веб-стандарты](https://web-standards.ru/podcast/) — новости фронтенда в еженедельном подкасте сообщества веб-разработчиков.
+
+
+
+
+
