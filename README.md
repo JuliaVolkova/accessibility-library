@@ -48,6 +48,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [Веб-стандарты — a11y](https://web-standards.ru/articles/tags/a11y/)
 - [Smashing Magazine — Accessibility](https://www.smashingmagazine.com/category/accessibility/)
 - [Weblind](https://weblind.ru/) — рекомендации по разработке сайтов для людей с нарушениями зрения
+- [Addressing Accessibility Concerns With Using Fluid Type](https://www.smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/) — Samshing Magazine article about CSS clamp() function
 
 ## Podcasts & Talks
 
@@ -76,6 +77,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [Фильм «Helvetica», 2007 года](https://www.hustwit.com/helvetica)
 - [«Я 💛 Фронтенд. А ваш сайт доступен с клавиатуры?» - Глафира Жур](https://youtu.be/SBNXPTwGnG8?si=qoL0xHy1NLQx3tmK)
 - [«Людоедский интерфейс» — Вадим Макеев](https://youtu.be/KAK-WAb9vow?si=LFBoARSo2jmK-neK)
+- [«Жми сюда!» — Вадим Макеев](https://youtu.be/MWJKwn_gKR4?si=5hwOtQ1ZB_VhscPO), [презентация](https://wsd.events/2012/06/23/pres/push-it/)
 
 ## Online courses
 
@@ -87,5 +89,22 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 ## Tools
 
+### Typography
 
+- [Google Fonts](https://fonts.google.com/)
+- [An accessible fluid type generator](https://fluid.style/)
+- [Syncope](https://nowodzinski.pl/syncope/) is a WYSIWYG tool that helps web designers and developers chose the optimal vertical rhythm of the typography for their web pages.
 
+### Contrast ratio
+
+- [Colour contrast checker](https://colourcontrast.cc/)
+- [Huetone](https://huetone.ardov.me/) — the app helps you to create accessible color systems with predictable contrast ratios.
+- [Randoma11y](https://randoma11y.com/) — accessible color combinations.
+- [axe DevTools](https://www.deque.com/axe/devtools/) — the ultimate digital accessibility testing toolkit
+- [Chrome Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+
+### Tools for Figma
+
+- [Include — Accessibility Annotations](https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations) — contrast checker, color deficiencies simulator, text resizing–guidance, responsive reflow–guidance.
+- [A11y Annotation Kit](https://www.figma.com/community/file/953682768192596304) — check reflow and zoom.
+- [Stark - Contrast & Accessibility Checker](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker/) — typography analysis, vision simulator.
