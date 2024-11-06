@@ -33,19 +33,26 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 ## Articles & Blogs
 
-- [Adrian Roselli Blog](https://adrianroselli.com/posts)
-- [Scott O'Hara Blog](https://www.scottohara.me/writing/)
+- [Adrian Roselli](https://adrianroselli.com/posts)
+- [Scott O'Hara](https://www.scottohara.me/writing/)
 - [Sarah Higley](https://sarahmhigley.com/writing/)
 - [Léonie Watson](https://tink.uk/)
 - [TetraLogical Company Blog](https://tetralogical.com/blog/)
+- [Steve Faulkner](https://html5accessibility.com/stuff/)
+- [Hidde de Vries](https://hidde.blog/)
 - [WebAIM](https://webaim.org/) — ресурс, посвященный доступности веб-контента, с множеством статей и руководств.
 - [A List Apart: Accessibility](https://alistapart.com/blog/topic/accessibility/) — журнал о веб-дизайне, который часто публикует статьи на тему доступности.
+- [Статьи про цифровую доступность — Таня Фокина](https://a11y-blog.dev/ru/)
 - [Под­бор­ка ссы­лок для зна­ком­ства с до­ступ­ной раз­ра­бот­кой](https://web-standards.ru/articles/a11y-links/)
+- [Веб-стандарты — a11y](https://web-standards.ru/articles/tags/a11y/)
+- [Smashing Magazine — Accessibility](https://www.smashingmagazine.com/category/accessibility/)
+- [Weblind](https://weblind.ru/) — рекомендации по разработке сайтов для людей с нарушениями зрения
 
 ## Podcasts & Talks
 
 - [«Inclusive Pineapple» (Инклюзивный ананас)](https://inclusivepineapple.github.io/) — это подкаст, в котором Глаша Жур и Таня Фокина обсуждают цифровую доступность.
 - [«Веб-стандарты»](https://web-standards.ru/podcast/) — новости фронтенда в еженедельном подкасте сообщества веб-разработчиков.
+- [«A11ycasts»](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) — это отличное интро в доступность с нуля.
 - [«A11y Rules»](https://a11yrules.com/) — подкаст, посвященный вопросам доступности в веб-дизайне.
 - [«The Accessibility Podcast»](https://open.spotify.com/show/4SjgcZxSkOJdkiADJBvWbo) — обсуждает различные аспекты доступности и инклюзии.
 
@@ -59,18 +66,20 @@ This is a community-driven project, and we welcome your contributions to keep th
 Книга о когнитивной психологии и её применении в дизайне, включая доступность.
 - [«Дизайн для реального мира»](https://books.google.ge/books/about/Design_for_the_Real_World.html?id=gf5TAAAAMAAJ&redir_esc=y) — Виктор Папанек.
 Эта книга — важное произведение в области дизайна, которое поднимает вопросы социальной ответственности дизайнеров и их роли в создании продуктов, которые действительно служат людям и обществу.
+- [A Book Apart — Accessibility](https://abookapart.com/collections/accessibility) — brief books for people who design, write, and code.
 
 ## Video
 
 - [«The A11Y Project: Resources»](https://www.a11yproject.com/resources/) — содержит множество интересных материалов о доступности на неочевидные темы.
-- [Фильм Objectified, 2009 года](https://www.hustwit.com/objectified)
-- [Фильм Helvetica, 2007 года](https://www.hustwit.com/helvetica)
+- [Фильм «Objectified», 2009 года](https://www.hustwit.com/objectified)
+- [Фильм «Helvetica», 2007 года](https://www.hustwit.com/helvetica)
+- [«Я 💛 Фронтенд. А ваш сайт доступен с клавиатуры?» - Глафира Жур](https://youtu.be/SBNXPTwGnG8?si=qoL0xHy1NLQx3tmK)
+- [«Людоедский интерфейс» — Вадим Макеев](https://youtu.be/KAK-WAb9vow?si=LFBoARSo2jmK-neK)
 
 ## Online courses
 
-•  ESDC Self-Paced Web Accessibility Course (https://bati-itao.github.io/learning/esdc-self-paced-web-accessibility-course/index.html) — курс от канадского правительства, в нём сухо и конкретно рассказано как надо, по сути это набор best practices.
-•  Web Accessibility by Google course (https://www.udacity.com/course/web-accessibility--ud891)
-•  Accessibility for Web Design (https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=2113185)
-•  UX Foundation: Accessibility (https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=2113185)
-
+- [ESDC Self-Paced Web Accessibility Course](https://bati-itao.github.io/learning/esdc-self-paced-web-accessibility-course/index.html) — курс от канадского правительства, в нём сухо и конкретно рассказано как надо, по сути это набор best practices.
+- [Web Accessibility by Google course](https://www.udacity.com/course/web-accessibility--ud891)
+- [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=2113185)
+- [UX Foundation: Accessibility](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=2113185)
 
