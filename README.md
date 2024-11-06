@@ -17,3 +17,17 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 ---
 
+## Guidelines & Standards
+
+### WAI-ARIA
+
+[WAI-ARIA](https://www.w3.org/WAI/standards-guidelines/aria/) (Web Accessibility Initiative - Accessible Rich Internet Applications) is a technical specification that defines how to increase the accessibility of web content and applications, especially those developed using advanced user interface controls and dynamic content. It provides attributes and roles that can be added to HTML elements to make them more accessible to people with disabilities, ensuring that assistive technologies, such as screen readers, can interpret and interact with complex web elements effectively.
+
+### WCAG
+
+[WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) (Web Content Accessibility Guidelines) is a set of guidelines developed by the W3C to ensure that web content is accessible to people with various disabilities. It outlines comprehensive principles and success criteria to help developers create content that is perceivable, operable, understandable, and robust for all users. Unlike WAI-ARIA, which provides specific attributes to enhance web element interaction and accessibility, WCAG is broader and serves as a standard framework for making entire web content accessible, including structure, design, and functionality.
+
+### Section 508
+
+[Section 508](https://www.section508.gov/) is a U.S. federal law that requires government agencies to make their electronic and information technology accessible to people with disabilities. It is part of the Rehabilitation Act and mandates that all federal websites and digital tools meet accessibility standards. Unlike WAI-ARIA, which provides technical specifications for developers to enhance specific web elements, and WCAG, which offers comprehensive guidelines for overall web content accessibility, Section 508 is a legal requirement that enforces compliance, aligning with key aspects of WCAG to ensure accessibility in practice.
+
