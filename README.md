@@ -17,6 +17,16 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 ---
 
+## Table of content
+
+- [Guidelines & Standards](#guidelines-&-standards)
+- [Articles & Blogs](#articles-&-blogs)
+- [Podcasts & Talks](#Podcasts-&-Talks)
+- [Books](#books)
+- [Video](#video)
+- [Online courses](#online-courses)
+- [Tools](#tools)
+
 ## Guidelines & Standards
 
 ### WAI-ARIA
