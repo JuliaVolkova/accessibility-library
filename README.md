@@ -26,6 +26,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [Video](#video)
 - [Online courses](#online-courses)
 - [Tools](#tools)
+- [Telegram channels and chats](#telegram-channels-and-chats)
 
 ## Guidelines & Standards
 
@@ -66,15 +67,17 @@ This is a community-driven project, and we welcome your contributions to keep th
 ### Guides
 
 - [Weblind](https://weblind.ru/) — рекомендации по разработке сайтов для людей с нарушениями зрения.
-- [Addressing Accessibility Concerns With Using Fluid Type](https://www.smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/) — Samshing Magazine article about CSS clamp() function
+- [Weblind on Github](https://github.com/web-standards-ru/weblind.ru/)
+- [Addressing Accessibility Concerns With Using Fluid Type](https://www.smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/) — Smashing Magazine article about CSS clamp() function
 
 ## Podcasts & Talks
 
 - [«Inclusive Pineapple» (Инклюзивный ананас)](https://inclusivepineapple.github.io/) — это подкаст, в котором Глаша Жур и Таня Фокина обсуждают цифровую доступность.
 - [«Веб-стандарты»](https://web-standards.ru/podcast/) — новости фронтенда в еженедельном подкасте сообщества веб-разработчиков.
+- [«Веб-стандарты», выпуск 137 с Лерой Курмак](https://web-standards.ru/podcast/137/) — Chrome 69 и Firefox 62, JS на медленных сетях, ссылки в ссылках и доступность.
 - [«A11ycasts with Rob Dodson»](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) — это отличное интро в доступность с нуля.
 - [«A11y Rules»](https://a11yrules.com/) — подкаст, посвященный вопросам доступности в веб-дизайне.
-- [«The Accessibility Podcast»](https://open.spotify.com/show/4SjgcZxSkOJdkiADJBvWbo) — обсуждает различные аспекты доступности и инклюзии.
+- [«The Accessibility Podcast»](https://open.spotify.com/show/4SjgcZxSkOJdkiADJBvWbo) — различные аспекты доступности и инклюзии.
 
 ## Books
 
@@ -127,3 +130,10 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [Include — Accessibility Annotations](https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations) — contrast checker, color deficiencies simulator, text resizing–guidance, responsive reflow–guidance.
 - [A11y Annotation Kit](https://www.figma.com/community/file/953682768192596304) — check reflow and zoom.
 - [Stark - Contrast & Accessibility Checker](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker/) — typography analysis, vision simulator.
+
+## Telegram channels and chats
+
+- [Accessibility Club Minsk Chat](https://t.me/a11yminsk)
+- [Accessibility](https://t.me/addlist/B9EakajXbENmMmJi) — папка с каналами и материалами по цифровой доступности и инклюзии.
+- [A11y_person](https://t.me/addlist/7pl3InUi6wc5Y2U6) — блоги людей с инвалидностью или без про доступность, инклюзию или свою жизнь.
+- [A11y_org](https://t.me/addlist/FfhMn7cnab44YWMy) — прочие организации в сфере инклюзии и доступности, проводящие мероприятия для людей с инвалидностью.
