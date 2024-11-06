@@ -21,7 +21,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 - [Guidelines & Standards](#guidelines-&-standards)
 - [Articles & Blogs](#articles-&-blogs)
-- [Podcasts & Talks](#Podcasts-&-Talks)
+- [Podcasts & Talks](#podcasts-&-Talks)
 - [Books](#books)
 - [Video](#video)
 - [Online courses](#online-courses)
@@ -43,6 +43,8 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 ## Articles & Blogs
 
+### Blogs
+
 - [Adrian Roselli](https://adrianroselli.com/posts)
 - [Scott O'Hara](https://www.scottohara.me/writing/)
 - [Sarah Higley](https://sarahmhigley.com/writing/)
@@ -50,6 +52,9 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [TetraLogical Company Blog](https://tetralogical.com/blog/)
 - [Steve Faulkner](https://html5accessibility.com/stuff/)
 - [Hidde de Vries](https://hidde.blog/)
+
+### Articles compilation
+
 - [WebAIM](https://webaim.org/) — ресурс, посвященный доступности веб-контента, с множеством статей и руководств.
 - [A List Apart: Accessibility](https://alistapart.com/blog/topic/accessibility/) — журнал о веб-дизайне, который часто публикует статьи на тему доступности.
 - [Статьи про цифровую доступность — Таня Фокина](https://a11y-blog.dev/ru/)
@@ -57,7 +62,10 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [Дока — Accessibility](https://doka.guide/a11y/)
 - [Веб-стандарты — a11y](https://web-standards.ru/articles/tags/a11y/)
 - [Smashing Magazine — Accessibility](https://www.smashingmagazine.com/category/accessibility/)
-- [Weblind](https://weblind.ru/) — рекомендации по разработке сайтов для людей с нарушениями зрения
+
+### Guides
+
+- [Weblind](https://weblind.ru/) — рекомендации по разработке сайтов для людей с нарушениями зрения.
 - [Addressing Accessibility Concerns With Using Fluid Type](https://www.smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/) — Samshing Magazine article about CSS clamp() function
 
 ## Podcasts & Talks
@@ -88,6 +96,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [«Я 💛 Фронтенд. А ваш сайт доступен с клавиатуры?» - Глафира Жур](https://youtu.be/SBNXPTwGnG8?si=qoL0xHy1NLQx3tmK)
 - [«Людоедский интерфейс» — Вадим Макеев](https://youtu.be/KAK-WAb9vow?si=LFBoARSo2jmK-neK)
 - [«Жми сюда!» — Вадим Макеев](https://youtu.be/MWJKwn_gKR4?si=5hwOtQ1ZB_VhscPO), [презентация](https://wsd.events/2012/06/23/pres/push-it/)
+- [Pitera11y_meetup](https://youtube.com/playlist?list=PLTdS5E3zupkGg0FoMoWB5FD2tlBrSWUQB&si=PtpYZ3wx9CL1wbV8) — петербургский митап о веб-доступности. Мы обмениваемся опытом и делаем интернет удобнее для всех.
 
 ## Online courses
 
