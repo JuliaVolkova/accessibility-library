@@ -19,9 +19,15 @@ This is a community-driven project, and we welcome your contributions to keep th
 
 ## Table of content
 
-- [Guidelines & Standards](#guidelines-&-standards)
-- [Articles & Blogs](#articles-&-blogs)
-- [Podcasts & Talks](#podcasts-&-Talks)
+- **Guidelines & Standards**
+  - [WAI-ARIA](#wai-aria)
+  - [WCAG](#wcag)
+  - [Section 508](#section-508)
+- **Articles & Blogs**
+  - [Blogs](#blogs)
+  - [Articles compilation](#articles-compilation)
+  - [Guides](#guides)
+- [Podcasts](#podcasts)
 - [Books](#books)
 - [Video](#video)
 - [Online courses](#online-courses)
@@ -53,12 +59,12 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [TetraLogical Company Blog](https://tetralogical.com/blog/)
 - [Steve Faulkner](https://html5accessibility.com/stuff/)
 - [Hidde de Vries](https://hidde.blog/)
+- [Таня Фокина — Статьи про цифровую доступность — ](https://a11y-blog.dev/ru/)
 
 ### Articles compilation
 
 - [WebAIM](https://webaim.org/) — ресурс, посвященный доступности веб-контента, с множеством статей и руководств.
 - [A List Apart: Accessibility](https://alistapart.com/blog/topic/accessibility/) — журнал о веб-дизайне, который часто публикует статьи на тему доступности.
-- [Статьи про цифровую доступность — Таня Фокина](https://a11y-blog.dev/ru/)
 - [Под­бор­ка ссы­лок для зна­ком­ства с до­ступ­ной раз­ра­бот­кой](https://web-standards.ru/articles/a11y-links/)
 - [Дока — Accessibility](https://doka.guide/a11y/)
 - [Веб-стандарты — a11y](https://web-standards.ru/articles/tags/a11y/)
@@ -70,7 +76,7 @@ This is a community-driven project, and we welcome your contributions to keep th
 - [Weblind on Github](https://github.com/web-standards-ru/weblind.ru/)
 - [Addressing Accessibility Concerns With Using Fluid Type](https://www.smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/) — Smashing Magazine article about CSS clamp() function
 
-## Podcasts & Talks
+## Podcasts
 
 - [«Inclusive Pineapple» (Инклюзивный ананас)](https://inclusivepineapple.github.io/) — это подкаст, в котором Глаша Жур и Таня Фокина обсуждают цифровую доступность.
 - [«Веб-стандарты»](https://web-standards.ru/podcast/) — новости фронтенда в еженедельном подкасте сообщества веб-разработчиков.
